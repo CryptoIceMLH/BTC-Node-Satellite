@@ -38,6 +38,13 @@ QO-100 is in a geostationary orbit at 25.9° East ( 36182 Km over Africa ). It c
 ## Stage 1 objectives are as follows - Completed ( see twitter posts )
 
 * Establish a Receive only connection with QO100 Satellite 
+<div style="position: relative; width: 100%; padding-bottom: 56.25%">
+<iframe src="https://www.youtube.com/embed/og5Qzyo06EI?si=i4TjvnulhyNxCT75" 
+        title="QO100 RX success" frameborder="0" allowfullscreen
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        style="position: absolute; width: 100%; height: 100%;">
+</iframe>
+</div>
 
 * Lock on to the Satellite Beacon 
 
@@ -50,13 +57,7 @@ QO-100 is in a geostationary orbit at 25.9° East ( 36182 Km over Africa ). It c
 ![trak](https://github.com/user-attachments/assets/d83b20f4-9870-49fc-af68-b958d59354e4)
 ![omfg](https://github.com/user-attachments/assets/6e2d8163-4547-45fa-b98c-b47da373537a)
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%">
-<iframe src="https://www.youtube.com/embed/og5Qzyo06EI" 
-        title="QO100 RX success" frameborder="0" allowfullscreen
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        style="position: absolute; width: 100%; height: 100%;">
-</iframe>
-</div>
+
 
 
 ## Stage 2 objectives are as follows - (CURRENT STAGE)
