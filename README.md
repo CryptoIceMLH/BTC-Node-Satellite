@@ -3,11 +3,17 @@
 
 ## DECENTRALIZED COMMUNICATIONS FOR BITCOIN HARDWARE
 
-**Hello BTC Tech Nerd Army!**
+## BTC Tech Nerd Army!
 
-**My name is CryptoIce and I am a proud BTC tech nerd.** 
+This is a wild time we live in, BTC must be prepared for all possible attack vectors.. that includes loss on centralized Coms !
 
-**Thought you might want to join me on this journey into decentralization!**
+My name is <a href="https://x.com/MolonLabeVC" target="_blank">CryptoIce</a> and I am a proud BTC tech nerd. 
+
+Thought you might want to join me on this journey into decentralization!
+
+With your continued support I can expedite the R&D process and deliver results in an expedited manor.
+
+**BTC LN : cryptoice@walletofsatoshi.com BTC Onchain: 347ePgUhyvztUWVZ4YZBmBLgTn8hxUFNeQ**
 
 ![BTC spartan](https://github.com/user-attachments/assets/b2f0130b-c58c-424d-8f9e-ec5d41c32a43)
 
@@ -77,7 +83,7 @@ QO-100 is in a geostationary orbit at 25.9° East ( 36182 Km over Africa ). It c
 
 
 
-## Current Status
+## Current Status - Updated as build progresses
 
 Stage 1 has been successfully completed, all Receiving hardware has been build and data was downloaded as expected.
 
@@ -101,10 +107,9 @@ Stage 2 is now underway, starting with preparing a list of hardware required in 
 
 9)DC-DC converter for Pluto+ and pre-amplifier - $20
 
-Total = $750
+I will keep you all posted on Stage 2 Progress here. 
 
 
-**This is a wild time we live in, I want BTC to be prepared for all possible attack vectors.. that includes loss on centralized Coms !**
-**With your continued support I can expedite the R&D process and deliver results in an expedited manor.** 
 
-**BTC LN : cryptoice@walletofsatoshi.com BTC Onchain: 347ePgUhyvztUWVZ4YZBmBLgTn8hxUFNeQ**
+
+
