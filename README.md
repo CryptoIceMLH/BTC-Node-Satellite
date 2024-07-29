@@ -1,19 +1,25 @@
-Bitaxe-Satellite
-Free Open Source
-DECENTRALIZED COMMUNICATIONS
-FOR BITCOIN HARDWARE
 
-Hello BTC Tech Nerd Army!
+# Bitaxe-Satellite
 
-My name is CryptoIce and I am a proud BTC tech nerd. Thought you might want to join me on this journey into decentralization!
+## DECENTRALIZED COMMUNICATIONS FOR BITCOIN HARDWARE
+
+**Hello BTC Tech Nerd Army!**
+
+**My name is CryptoIce and I am a proud BTC tech nerd.** 
+
+**Thought you might want to join me on this journey into decentralization!**
 
 ![BTC spartan](https://github.com/user-attachments/assets/b2f0130b-c58c-424d-8f9e-ec5d41c32a43)
 
-Research and Development into an integrated system that will allow a Bitaxe BTC miner to communicate two way via satellite with a public-pool.io remote instance.
+## Research and Development 
 
-Purpose is to decentralize Bitcoin mining communications by providing an alternative to centralized Internet Service providers.
+into an integrated system that will allow a Bitaxe BTC miner to communicate two way via satellite with a public-pool.io remote instance.
 
-Chapter1: Satellite
+## Purpose
+
+is to decentralize Bitcoin mining communications by providing an alternative to centralized Internet Service providers.
+
+## Chapter1: Satellite
 
 I am starting this mission by establishing communication via the geostationary satellite Es’hail-2 / QO-100.
 
@@ -23,13 +29,13 @@ QO-100 is in a geostationary orbit at 25.9° East ( 36182 Km over Africa ). It c
 
 ![eshail-footprint](https://github.com/user-attachments/assets/ddb29a05-e179-420b-9681-51a40983b3b7)
 
-Stage 1 objectives are as follows - Completed ( see twitter posts )
+## Stage 1 objectives are as follows - Completed ( see twitter posts )
 
--Establish a Receive only connection with QO100 Satellite
+* Establish a Receive only connection with QO100 Satellite 
 
--Lock on to the Satellite Beacon
+* Lock on to the Satellite Beacon 
 
--Establish a RX synch with satellite and download HTML website of satellites own live status page.
+* Establish a RX synch with satellite and download HTML website of satellites own live status page. 
 
 ![IMG_20240702_120258](https://github.com/user-attachments/assets/3eebef35-47fb-461c-8809-0bafb4168424)
 ![IMG_20240722_142157](https://github.com/user-attachments/assets/d0a7155a-19e3-4a63-8243-1d3b54705f67)
@@ -38,33 +44,40 @@ Stage 1 objectives are as follows - Completed ( see twitter posts )
 ![trak](https://github.com/user-attachments/assets/d83b20f4-9870-49fc-af68-b958d59354e4)
 ![omfg](https://github.com/user-attachments/assets/6e2d8163-4547-45fa-b98c-b47da373537a)
 
-youtube.com/watch?v=og5Qzyo06EI
-
-Stage 2 objectives are as follows - (CURRENT STAGE)
-
--Build a 2.4Ghz Transmitter and associated radio components ( see list below )
-
--Establish a Transmit and Receive (full duplex) connection with QO100 Satellite
-
--Transmit a data file from my location UK to WantClue in Germany.
+<div style="position: relative; width: 100%; padding-bottom: 56.25%">
+<iframe src="https://www.youtube.com/embed/og5Qzyo06EI" 
+        title="QO100 RX success" frameborder="0" allowfullscreen
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        style="position: absolute; width: 100%; height: 100%;">
+</iframe>
+</div>
 
 
+## Stage 2 objectives are as follows - (CURRENT STAGE)
 
-Stage 3 objectives are as follows - (To be firmed up in due course)
+* Build a 2.4Ghz Transmitter and associated radio components ( see list below ) 
 
--Modify Bitaxe firmware to communicate via SSB_HighSpeed_Modem
+* Establish a Transmit and Receive (full duplex) connection with QO100 Satellite 
 
--Modify Public Pool to to communicate via SSB_HighSpeed_Modem
-
-
-
-Stage 4 objectives are as follows
-
--Bitaxe hashes and delivers successful shares to the pool via satellite only connection
+* Transmit a data file from my location UK to WantClue in Germany. 
 
 
 
-Current Status
+## Stage 3 objectives are as follows - (To be firmed up in due course)
+
+* Modify Bitaxe firmware to communicate via SSB_HighSpeed_Modem 
+
+* Modify Public Pool to to communicate via SSB_HighSpeed_Modem 
+
+
+
+## Stage 4 objectives are as follows
+
+* Bitaxe hashes and delivers successful shares to the pool via satellite only connection 
+
+
+
+## Current Status
 
 Stage 1 has been successfully completed, all Receiving hardware has been build and data was downloaded as expected.
 
@@ -91,7 +104,7 @@ Stage 2 is now underway, starting with preparing a list of hardware required in 
 Total = $750
 
 
-This is a wild time we live in, I want BTC to be prepared for all possible attack vectors.. that includes loss on centralized Coms !
-With your continued support I can expedite the R&D process and deliver results in an expedited manor. 
+**This is a wild time we live in, I want BTC to be prepared for all possible attack vectors.. that includes loss on centralized Coms !**
+**With your continued support I can expedite the R&D process and deliver results in an expedited manor.** 
 
-BTC LN : cryptoice@walletofsatoshi.com BTC Onchain: 347ePgUhyvztUWVZ4YZBmBLgTn8hxUFNeQ
+**BTC LN : cryptoice@walletofsatoshi.com BTC Onchain: 347ePgUhyvztUWVZ4YZBmBLgTn8hxUFNeQ**
