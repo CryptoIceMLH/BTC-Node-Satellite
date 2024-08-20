@@ -1,5 +1,5 @@
 
-# Bitaxe-Satellite
+# BTC Node Satellite
 
 ## DECENTRALIZED COMMUNICATIONS FOR BITCOIN HARDWARE
 
@@ -19,7 +19,8 @@ With your continued support I can expedite the R&D process and deliver results i
 
 ## Research and Development 
 
-into an integrated system that will allow a Bitaxe BTC miner to communicate two way via satellite with a public-pool.io remote instance.
+Research and Development into an integrated system that will allow a BTC NODE to communicate via satellite to another node.
+
 
 ## Purpose
 
@@ -59,22 +60,15 @@ QO-100 is in a geostationary orbit at 25.9° East ( 36182 Km over Africa ). It c
 
 * Establish a Transmit and Receive (full duplex) connection with QO100 Satellite 
 
-* Transmit a data file from my location UK to WantClue in Germany. 
-
-
 
 ## Stage 3 objectives are as follows - (To be firmed up in due course)
 
-* Modify Bitaxe firmware to communicate via SSB_HighSpeed_Modem 
-
-* Modify Public Pool to to communicate via SSB_HighSpeed_Modem 
-
+* Modify NODE to communicate via SSB_HighSpeed_Modem
 
 
 ## Stage 4 objectives are as follows
 
 * Bitaxe hashes and delivers successful shares to the pool via satellite only connection 
-
 
 
 ## Current Status - Updated as build progresses
