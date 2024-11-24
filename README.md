@@ -75,28 +75,13 @@ QO-100 is in a geostationary orbit at 25.9° East ( 36182 Km over Africa ). It c
 
 Stage 1 has been successfully completed, all Receiving hardware has been build and data was downloaded as expected.
 
-Stage 2 is now underway, starting with preparing a list of hardware required in order to built the required transmitter. As it seems sending data back up to 36182Km take a little bit more effort than just receiving. Below is the BOM for the Transmitter hardware needs.
+**Stage 2 is now BUILT and undergoing testing (updated 23/11/2024)**
 
-1)Pluto+ SDR - $250
+![IMG_20241122_160236](https://github.com/user-attachments/assets/64e21096-7b7a-41b1-beb5-06b7b941cfac)
+![IMG_20241122_160301](https://github.com/user-attachments/assets/c39ed9dc-2199-4c81-a271-78e941e68ec0)
 
-2)Analogue devices CN0417 pre-amplifier $50
 
-3)Bias-T network - $30
-
-4)Bullseye LNB - $40
-
-5)105cm offset dish - $60
-
-6)2.4Ghz ConeFeed Tx uplink antenna - $130
-
-7)SG Labs 2.4GHz power amplifier - $150
-
-8)DC-DC conveter for 20W power amplifier - $20
-
-9)DC-DC converter for Pluto+ and pre-amplifier - $20
-
-I will keep you all posted on Stage 2 Progress here. 
-
+**With your continued support I can expedite the R&D process and deliver results in an expedited manor. This is a wild time we live in, I want BTC to be prepared for all possible attack vectors.. that includes loss on centralized Coms !**
 
 
 
