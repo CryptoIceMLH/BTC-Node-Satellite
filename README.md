@@ -1,7 +1,7 @@
 
-# BTC Node Satellite
+# BTC & NOSTR Satellite ground station - BitSatRelay Terminal 
 
-## DECENTRALIZED COMMUNICATIONS FOR BITCOIN HARDWARE
+## DECENTRALIZED COMMUNICATIONS FOR BITCOIN & NOSTR 
 
 ## BTC Tech Nerd Army!
 
