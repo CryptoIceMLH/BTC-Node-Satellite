@@ -1,8 +1,8 @@
-# BitSatRelay Ground Station - Off-Grid Terminal
+# BitSatRelay Ground Station
 
 **Decentralized satellite communications for Bitcoin & Nostr**
 
-Hardware designs and documentation for Terminal-1 off-grid satellite communication units.
+Hardware designs and documentation for BitSatRelay ground station terminals.
 
 ---
 
@@ -13,7 +13,7 @@ This is part of a three-component integrated system. Each repository handles a d
 | Repository | Purpose | Description |
 |------------|---------|-------------|
 | **[BitSatRelay](https://github.com/CryptoIceMLH/BitSatRelay)** | Terminal-HQ Bridge | Main codebase - Nostr to satellite bridge |
-| **[BitSatRelay-Ground-Station](https://github.com/CryptoIceMLH/BitSatRelay-Ground-Station)** | Off-Grid Terminals | Terminal-1 kits for off-grid satellite TX/RX (this repo) |
+| **[BitSatRelay-Ground-Station](https://github.com/CryptoIceMLH/BitSatRelay-Ground-Station)** | Ground Station Hardware | Hardware designs for satellite TX/RX terminals (this repo) |
 | **[lnbits-bitsatcredit](https://github.com/CryptoIceMLH/lnbits-bitsatcredit)** | Payment System | LNbits extension for Lightning micropayments |
 
 **All three components work together** to create the complete BitSatRelay network.
@@ -38,27 +38,27 @@ If you wish to support my work you can donate with BTC:
 
 ---
 
-## What is Terminal-1?
+## Terminal-HQ Base Station
 
-Terminal-1 is an off-grid satellite communication unit that allows Bitcoin nodes and Nostr relays to communicate independently of centralized Internet Service Providers.
+Terminal-HQ is the main base station that bridges Nostr relay communications to satellite transmission.
 
 **System Integration:**
-- Works with **[BitSatRelay](https://github.com/CryptoIceMLH/BitSatRelay)** Terminal-HQ bridge for Nostr to satellite communications
+- Runs **[BitSatRelay](https://github.com/CryptoIceMLH/BitSatRelay)** software for Nostr to satellite bridge
 - Uses **[lnbits-bitsatcredit](https://github.com/CryptoIceMLH/lnbits-bitsatcredit)** payment system for Lightning micropayments
-- Provides off-grid satellite TX/RX capability for decentralized communications
+- Provides satellite TX/RX capability for global decentralized communications
 
 ---
 
 ## Hardware Prototypes
 
-Below are images of the R&D process and final design iterations:
+Below are images of the Terminal-HQ base station R&D process and final design iterations:
 
 <div align="center">
-  <img src="Gh-JM2kWIAArmzZ.jpg" width="400" alt="Ground Station Overview" />
-  <img src="IMG_20241122_160301.jpg" width="400" alt="Terminal Assembly 1" />
-  <img src="IMG_20241122_160236.jpg" width="400" alt="Terminal Assembly 2" />
-  <img src="IMG_20241115_125529.jpg" width="400" alt="RF Setup 1" />
-  <img src="IMG_20241114_113744.jpg" width="400" alt="RF Setup 2" />
+  <img src="Gh-JM2kWIAArmzZ.jpg" width="400" alt="Terminal-HQ Base Station Overview" />
+  <img src="IMG_20241122_160301.jpg" width="400" alt="Terminal-HQ Assembly 1" />
+  <img src="IMG_20241122_160236.jpg" width="400" alt="Terminal-HQ Assembly 2" />
+  <img src="IMG_20241115_125529.jpg" width="400" alt="Terminal-HQ RF Setup 1" />
+  <img src="IMG_20241114_113744.jpg" width="400" alt="Terminal-HQ RF Setup 2" />
 </div>
 
 ---
