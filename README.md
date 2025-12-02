@@ -69,16 +69,6 @@ Complete hardware specifications, wiring diagrams, and build guides will be avai
 
 ---
 
-## Community
-
-This is a wild time we live in - Bitcoin must be prepared for all possible attack vectors, including loss of centralized communications infrastructure.
-
-My name is [CryptoIce](https://x.com/MolonLabeVC), and I'm a proud Bitcoin tech nerd. Join me on this journey into true decentralization!
-
-With your continued support, I can expedite the R&D process and deliver complete documentation faster.
-
----
-
 ## Contributing
 
 Contributions welcome! Areas where help is needed:
