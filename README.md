@@ -86,10 +86,9 @@ GPL-3.0 - see [LICENSE.txt](LICENSE.txt) for details
 
 ## Contact
 
-- **Nostr**: `npub14uee3fwxjwq7m25gsyqguv2t6v8ft69jax4lvs3skfpa8u7thdsqpu7gam`
+- **Nostr**: `npub18cel6ufy7960c5632xfhlpccvdxankzkzs75ema45yxa4uhkzhqqsrulqe`
 - **X/Twitter**: [@MolonLabeVC](https://x.com/MolonLabeVC)
-- **Main Project**: [BitSatRelay](https://github.com/CryptoIceMLH/BitSatRelay)
-- **Website**: https://bitsat.molonlabe.holdings
+- **Website**: https://www.molonlabe.holdings/
 
 ---
 
